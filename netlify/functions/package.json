@@ -1,0 +1,14 @@
+{
+  "name": "youtube-music-downloader-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for YouTube Music Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  },
+  "author": "",
+  "license": "AGPL-3.0"
+} 
